@@ -11,7 +11,7 @@
         },
         "sonarqubeImageVersion": {
             "type": "string",
-            "defaultValue": "lts",
+            "defaultValue": "8.4.1-enterprise",
             "allowedValues": [
                 "latest",
                 "lts",
@@ -29,7 +29,8 @@
                 "6.7.4",
                 "6.7.3",
                 "6.7.2",
-                "6.7.1"
+                "6.7.1",
+                "8.4.1-enterprise"
             ],
             "metadata": {
                 "description": "The version of the Sonarqube container image to use"
