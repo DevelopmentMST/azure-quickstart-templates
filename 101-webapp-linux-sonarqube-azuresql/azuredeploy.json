@@ -120,7 +120,7 @@
             "type": "int",
             "minValue": 1,
             "maxValue": 1024,
-            "defaultValue": 16,
+            "defaultValue": 2,
             "metadata": {
                 "description": "Azure SQL Database Storage Max Size in GB"
             }
